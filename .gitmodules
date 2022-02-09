@@ -1,0 +1,3 @@
+[submodule "seccion2"]
+	path = seccion2
+	url = https://github.com/kelerex123/seccion2.git
