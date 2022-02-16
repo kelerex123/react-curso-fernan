@@ -1,3 +1,6 @@
 [submodule "02-intro-javascript"]
 	path = 02-intro-javascript
 	url = https://github.com/kelerex123/seccion2.git
+[submodule "proy3-y-test"]
+	path = proy3-y-test
+	url = https://github.com/kelerex123/proy3-y-test
