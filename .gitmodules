@@ -4,3 +4,6 @@
 [submodule "03-counter-app"]
 	path = 03-counter-app
 	url = https://github.com/kelerex123/proy3-y-test
+[submodule "04-gif-expert-app"]
+	path = 04-gif-expert-app
+	url = https://github.com/kelerex123/react-curso-gifExpert
