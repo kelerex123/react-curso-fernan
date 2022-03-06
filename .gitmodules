@@ -7,3 +7,6 @@
 [submodule "04-gif-expert-app"]
 	path = 04-gif-expert-app
 	url = https://github.com/kelerex123/react-curso-gifExpert
+[submodule "05-hook-app"]
+	path = 05-hook-app
+	url = https://github.com/kelerex123/react-hooks.git
