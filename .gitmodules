@@ -13,3 +13,6 @@
 [submodule "06-repo-hooks"]
 	path = 06-repo-hooks
 	url = https://github.com/kelerex123/my-custom-hooks.git
+[submodule "07-heroes-app"]
+	path = 07-heroes-app
+	url = https://github.com/kelerex123/react-hero-app.git
