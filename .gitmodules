@@ -16,3 +16,6 @@
 [submodule "07-heroes-app"]
 	path = 07-heroes-app
 	url = https://github.com/kelerex123/react-hero-app.git
+[submodule "08-journal-app"]
+	path = 08-journal-app
+	url = https://github.com/kelerex123/react-journal-app.git
